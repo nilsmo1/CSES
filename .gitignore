@@ -1,3 +1,6 @@
 *
-!/**/
-!*.*
+!Introductory_Problems/*.cpp
+!Range_Queries/*.cpp
+!Sorting_and_Searching/*.cpp
+!README.md
+!.gitignore
